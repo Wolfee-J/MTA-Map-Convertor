@@ -1,2 +1,3 @@
-# J-Map-Convertor
-GTA SA to MTA map convertor, supports JStreamer (OBJs) only.
+# #######################################
+## Discontinued Procceded by - https://github.com/CobraCNC/C-Map-Convertor
+# #######################################
