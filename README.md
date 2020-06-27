@@ -20,3 +20,7 @@
 - Grab a copy of MTA-Stream (https://github.com/Wolfee-J/MTA-Stream)
 - Launch MTA-Stream
 - Launch the newly created map.
+
+Want to help support development? Buy me a Pepsi
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/BlueJayL)
